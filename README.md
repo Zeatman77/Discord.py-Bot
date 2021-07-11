@@ -1,2 +1,2 @@
 # Discord.py-Bot
-Kick, Ban, Slowmode, Warn, Mute, Unmute and much more Codes here.
+If you need any help, dm me on Discord: Zeatman#1721
